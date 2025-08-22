@@ -1,7 +1,7 @@
 # Dynamic Traffic Signal Management System
 
 ## **Description**
-This project simulates a **dynamic traffic signal management system** for multiple lanes using **C++**. It integrates real-world traffic scenarios such as **VIP vehicles, ambulances, fire trucks, and lane incidents** (accidents, road works, police chase). The system uses **priority-based lane selection, vehicle wait times, and traffic light control** to optimize traffic flow. Weather conditions affect traffic intensity, and the status of each lane is displayed in a **tabular format**. All outputs are logged to a **text file** for record-keeping and analysis.  
+This project simulates a **dynamic traffic signal management system** for multiple lanes using **Linux C++**. It integrates real-world traffic scenarios such as **VIP vehicles, ambulances, fire trucks, and lane incidents** (accidents, road works, police chase). The system uses **priority-based lane selection, vehicle wait times, and traffic light control** to optimize traffic flow. Weather conditions affect traffic intensity, and the status of each lane is displayed in a **tabular format**. All outputs are logged to a **text file** for record-keeping and analysis.  
 Additionally, when the simulation is ended by pressing **'q' and Enter**, a new log file is created that prints the **entire output history** for that session.
 
 ---
