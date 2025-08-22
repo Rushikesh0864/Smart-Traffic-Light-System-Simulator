@@ -30,6 +30,7 @@ g++ main.cpp -o traffic_sim
 
 Direct compile and run.
 
+
 ##Usage
 
 Enter the number of lanes.
