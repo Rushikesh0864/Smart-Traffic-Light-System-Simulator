@@ -28,7 +28,7 @@ Additionally, when the simulation is ended by pressing **'q' and Enter**, a new 
 ## **Installation**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Rushikesh0864/Smart-Traffic-Light-System-Simulator.git
+   git clone https://github.com/Rushikesh0864/Smart-Traffic-Light-System-Simulator-Sasken
    ```
 
 2. **Compile the code using g++:**
